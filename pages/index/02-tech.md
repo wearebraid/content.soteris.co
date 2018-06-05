@@ -2,6 +2,7 @@
 type: tech
 name: The Technology
 linkText: How We Did It
+anchor: tech
 ---
 
 # The Technology

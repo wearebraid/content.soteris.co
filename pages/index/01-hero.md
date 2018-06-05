@@ -2,6 +2,7 @@
 type: hero
 name: Introduction
 linkText: Get Started
+anchor: about
 ---
 
 # Bring The _Power of AI_ To Your Insurance Pricing Process
