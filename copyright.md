@@ -1,1 +1,3 @@
-[Terms](/terms) • [Privacy](/privacy) • © 2018 Soteris
+* [Terms](/terms)
+* [Privacy](/privacy)
+* © 2018 Soteris
