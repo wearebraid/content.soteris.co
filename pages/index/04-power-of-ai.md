@@ -1,7 +1,7 @@
 ---
 type: list
 name: The Power of AI Insurance
-anchor: how
+anchor: power-of-ai
 ---
 
 # The Power of AI with Insurance

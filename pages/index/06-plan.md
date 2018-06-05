@@ -1,7 +1,7 @@
 ---
 type: subscribe
 name: What We Plan To Do
-anchor: plan
+anchor: mission
 ---
 
 # What We Plan To Do
