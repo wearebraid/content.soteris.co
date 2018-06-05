@@ -1,3 +1,1 @@
-* [Terms](/terms)
-* [Privacy](/privacy)
-* &copy; 2018 Soteris
+[Terms](/terms) &bull; [Privacy](/privacy) &bull; &copy; 2018 Soteris
