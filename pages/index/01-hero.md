@@ -5,7 +5,7 @@ linkText: Get Started
 anchor: about
 ---
 
-# Bring The _Power of AI_ To Your Insurance Pricing Process
+# Bringing The _Power of AI_ to Insurance
 
-## We create tools that inforporate the power of machine learning into your existing processes.
+## We create tools that incorporate the power of machine learning into your existing pricing processes.
 
