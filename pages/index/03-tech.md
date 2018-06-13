@@ -11,4 +11,4 @@ Our first learning system understands the complicated combinations of factors th
 
 As a test, we fed this system a set of insurance data, then asked it to score new policies it had never seen before. Each score represents the system's estimate of the probability that that new policy will lead to a claim. We then sorted those policies top-to-bottom based solely on that score and split the set of policies into ten buckets by score. The graph below displays the eventual claims rate for each bucket.
 
-## By eliminating the higher-risk policies with our system, this company would have saved *8 points on its combined ratio*
+## By eliminating the higher-risk policies with our system, this company would have reduced its claims frequency by 10%.

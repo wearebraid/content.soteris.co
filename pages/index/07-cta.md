@@ -1,7 +1,7 @@
 ---
 type: cta
-name: Get Started
-linkText: Get Started
+name: Want to Connect
+linkText: Contact Us
 anchor: get-started
 ---
 
