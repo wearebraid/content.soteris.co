@@ -1,8 +1,8 @@
 ---
 name: Dr. Sunit N. Shah, Ph.D.
 title: President & CEO
-linkedin: http://linkedin.com
-email: email@soteris.co
+linkedin: https://www.linkedin.com/in/sunit-shah-a48aa9
+email: sns@soteris.co
 featured: true
 ---
 
