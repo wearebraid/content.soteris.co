@@ -1,1 +1,1 @@
-[Terms](/terms) &bull; [Privacy](/privacy) &bull; &copy; 2018 Soteris
+&copy; 2018 Soteris
