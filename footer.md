@@ -1,4 +1,3 @@
-* [ABOUT](/#about)
 * [TECHNOLOGY](/#tech)
 * [TEAM](/#team)
-* [MISSION](/#mission)
+* [POWER OF AI](/#power-of-ai)
