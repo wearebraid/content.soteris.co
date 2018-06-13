@@ -5,4 +5,4 @@ linkText: Get Started
 anchor: get-started
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla iaculis vel massa eu viverra. Proin dapibus eros luctus dolor sollicitudin, eu feugiat eros bibendum.
+Whether you are interested in seeing a demo of our technology, partnering for a proof-of-concept, or just learning more about Soteris, we would love to talk.
