@@ -1,6 +1,6 @@
 ---
 type: team
-name: Who We Are
+name: The Team
 anchor: team
 ---
 
