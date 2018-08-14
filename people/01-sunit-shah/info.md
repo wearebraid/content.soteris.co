@@ -1,5 +1,5 @@
 ---
-name: Dr. Sunit N. Shah, Ph.D.
+name: Sunit N. Shah, Ph.D.
 title: Founder & CEO
 linkedin: https://www.linkedin.com/in/sunit-shah-a48aa9
 email: sns@soteris.co
