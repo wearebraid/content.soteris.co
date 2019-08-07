@@ -11,4 +11,4 @@ Our first learning system understands the complicated combinations of factors th
 
 As a test, we fed this system a set of actual insurance policy and claim data, then asked it to 'score' a separate set of policies it had never seen before. Each policy's score represents the system's estimate of the probability that the previously-unseen policy would lead to a claim. To test its predictive accuracy, we then sorted those policies top-to-bottom based solely on the assigned score and split those policies into ten equal-sized buckets, best scores to worst. We then calculated the eventual claims rate for each bucket. The graph below displays the result -- the Soteris scoring system demonstrates a clear ability to predict which policies are likely to lead claims, and which ones are not.
 
-## By eliminating the higher-risk policies with our system, this company would have **reduced its claims frequency by 10%**.
+## Our software has demonstrated the ability to raise our customers' profitability **over 60%**.
