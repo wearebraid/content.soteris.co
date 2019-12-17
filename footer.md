@@ -2,3 +2,5 @@
 * [TEAM](/#team)
 * [CAREERS](/#careers)
 * [POWER OF AI](/#power-of-ai)
+* [INVESTORS](/#investors)
+* [CONTACT](/#get-started)
