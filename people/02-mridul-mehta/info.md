@@ -1,6 +1,6 @@
 ---
 name: Mridul Mehta, Ph.D.
-title: Head of Research
+title: Head of Machine Learning
 linkedin: https://www.linkedin.com/in/mridul-mehta-8a58981/
 featured: true
 ---
